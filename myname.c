@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("¨H­P°¥\n");
+    printf("é¥…é ­\n");
 }
